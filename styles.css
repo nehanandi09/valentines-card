@@ -9,7 +9,7 @@ body {
 
   /*  add media queries */
   @media (max-width: 768px) {
-    padding-top: 30px;
+    justify-content: flex-start;
   }
 }
 
@@ -18,7 +18,7 @@ h1 {
   color: #ff0080;
 
   @media (max-width: 768px) {
-    padding-top: 36px;
+    padding-top: 12px;
   }
 }
 
