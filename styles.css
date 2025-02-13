@@ -6,11 +6,20 @@ body {
   height: 100vh;
   background-color: #ffebf0;
   font-family: Arial, sans-serif;
+
+  /*  add media queries */
+  @media (max-width: 768px) {
+    padding-top: 30px;
+  }
 }
 
 h1 {
   font-family: "Dancing Script", serif;
   color: #ff0080;
+
+  @media (max-width: 768px) {
+    padding-top: 36px;
+  }
 }
 
 .grid {
