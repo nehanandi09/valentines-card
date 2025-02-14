@@ -24,6 +24,11 @@ const messages = [
   "You are a true inspiration to me",
   "You are my rock and my best friend",
   "Your dreams are worth pursuing, and I am your biggest cheerleader",
+  "You are the love of my life",
+  "You have the purest heart. I am so lucky to be with you",
+  "You are the song that plays in my heart",
+  "You are a gift to this world",
+  "Your support means the world to me.",
 ];
 
 // Shuffle the messages array
